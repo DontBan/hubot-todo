@@ -5,6 +5,7 @@
   "author": "Tomohiro Kobayashi <noraware29@gmail.com>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "@slack/client": "^5.0.2",
     "hubot": "^3.3.2",
     "hubot-diagnostics": "^1.0.0",
     "hubot-google-images": "^0.2.7",
@@ -19,7 +20,7 @@
     "hubot-shipit": "^0.2.1",
     "hubot-slack": "^4.7.1",
     "todo": "file:../todo",
-    "ws": "^7.1.0"
+    "ws": "^7.1.1"
   },
   "engines": {
     "node": "8.9.4",
