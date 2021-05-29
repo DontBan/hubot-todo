@@ -20,7 +20,7 @@
     "hubot-shipit": "^0.2.1",
     "hubot-slack": "^4.7.1",
     "todo": "file:../todo",
-    "ws": "^7.1.1"
+    "ws": "^7.4.6"
   },
   "engines": {
     "node": "8.9.4",
